@@ -1,0 +1,56 @@
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.xml
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Synomptique.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CopyComplete
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Historiques.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Graphs.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\bin\Debug\af\WindowsApp2.resources.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Synomptique.af.resources
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\af\WindowsApp2.resources.dll
+C:\Users\dell\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.gr.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\af\WindowsApp2.resources.dll
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.xml
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.gr.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Graphs.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Historiques.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Synomptique.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Synomptique.af.resources
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\oussama\Documents\Ex Code\WindowsApp2\WindowsApp2\WindowsApp2\obj\Debug\af\WindowsApp2.resources.dll

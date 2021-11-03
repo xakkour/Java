@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/oussama/Documents/Eclipse-Workplace/Scada_lv1/JarFiles/mysql-connector-java-8.0.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oussama/Documents/Ex Code/Scada/jar files/fontawesomefx-8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oussama/Documents/Ex Code/Scada/jar files/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oussama/Documents/Ex Code/Scada/jar files/protobuf-java-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/oussama/Documents/Ex Code/Scada/jar files/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
